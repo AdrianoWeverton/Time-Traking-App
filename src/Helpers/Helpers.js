@@ -1,3 +1,25 @@
+import { v4 } from "uuid";
+
+export const newTimer = (attrs = {}) => {
+    const timer = {
+        title: attrs.title || 'Timer',
+        project: attrs.project || 'Project',
+        id: v4(),
+        elapsed: 0,
+    };
+
+    return timer;
+}
+
+export const findById = (array, id, cb) => {
+    array.forEach((el) => {
+        if (el.id === id) {
+            cb(el);
+            return;
+        }
+    });
+}
+
 export const renderElapsedString = (elapsed, runningSince) => {
     let totalElapse = elapsed;
     if (runningSince) {
