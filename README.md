@@ -2,17 +2,14 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AdrianoWeverton/Time-Traking-App/blob/master/LICENSE) 
 
 # Sobre o projeto
-# Time Tracking App
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AdrianoWeverton/Time-Traking-App/blob/master/LICENSE) 
-
-# Sobre o projeto
 
 https://timetracking-aw.netlify.app/
+
 Time Tracking App é uma aplicação front-end que consiste na criação de diferentes timers para a organização e realização de diferentes tarefas realizadas pelo usuário.
 
 
 ## Layout
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/AdrianoWeverton/assets/blob/master/layout.png)
 
 
 # Tecnologias utilizadas
