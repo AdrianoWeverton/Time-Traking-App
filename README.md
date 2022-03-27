@@ -15,7 +15,7 @@ Time Tracking App é uma aplicação front-end que consiste na criação de dife
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS 
 - ReactJS
 - Tailwindcss
 
@@ -30,7 +30,7 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/AdrianoWeverton/Time-Traking-App.git
 
-# entrar na pasta do projeto front end web
+# entrar na pasta do projeto
 cd Time-Tracking-App
 
 # instalar dependências
